@@ -6,8 +6,7 @@
 
 - (void)initialize
 {
-    // your code here adds obstacle
-    [self addObstacle];
+    // your code here
 }
 
 -(void)update:(CCTime)delta
